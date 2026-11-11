@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">UTS Rafky Maulana</string>
+    <string name="title_main_menu">MENU UTAMA</string>
+    <string name="subtitle_main_menu">Aplikasi Perhitungan Gaji Karyawan</string>
+
+    <string name="menu_info_gaji">1. Info Gaji Karyawan</string>
+    <string name="menu_petunjuk">2. Petunjuk Penggunaan</string>
+    <string name="menu_tentang">3. Tentang Aplikasi</string>
+    <string name="menu_exit">4. Exit</string>
+
+    <string name="title_input_gaji">Input Data Gaji Karyawan</string>
+    <string name="hint_nik">Nomor Induk Karyawan (NIK)</string>
+    <string name="hint_nama">Nama Karyawan</string>
+    <string name="hint_gaji_pokok">Gaji Pokok (Rp)</string>
+    <string name="hint_tunjangan_jabatan">Tunjangan Jabatan (Rp)</string>
+    <string name="hint_hari_kerja">Jumlah Hari Kerja (Hari)</string>
+
+    <string name="btn_hitung">Hitung Gaji</string>
+    <string name="btn_reset">Reset Input</string>
+    <string name="btn_kembali">Kembali ke Menu Utama</string>
+
+    <string name="title_hasil_gaji">Hasil Perhitungan Gaji</string>
+    <string name="label_nik">NIK :</string>
+    <string name="label_nama">Nama Karyawan :</string>
+    <string name="label_gaji_pokok">Gaji Pokok :</string>
+    <string name="label_tunjangan_jabatan">Tunjangan Jabatan :</string>
+    <string name="label_hari_kerja">Jumlah Hari Kerja :</string>
+    <string name="label_tunjangan_makan">Tunjangan Makan :</string>
+    <string name="label_tunjangan_transport">Tunjangan Transportasi :</string>
+    <string name="label_gaji_kotor">Gaji Kotor :</string>
+    <string name="label_pajak">Pajak (10%) :</string>
+    <string name="label_gaji_bersih">Gaji Bersih :</string>
+
+    <string name="title_petunjuk">Petunjuk Penggunaan</string>
+    <string name="title_tentang">Tentang Aplikasi</string>
+</resources>
